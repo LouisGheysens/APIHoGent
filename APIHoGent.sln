@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIHoGent", "APIHoGent\APIHoGent.csproj", "{5DC1BD64-62CE-43F6-BFC0-144C65D15C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC1BD64-62CE-43F6-BFC0-144C65D15C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC1BD64-62CE-43F6-BFC0-144C65D15C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC1BD64-62CE-43F6-BFC0-144C65D15C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC1BD64-62CE-43F6-BFC0-144C65D15C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41BEDEF-294F-48F9-BF06-F3DB97AA8B29}
+	EndGlobalSection
+EndGlobal
